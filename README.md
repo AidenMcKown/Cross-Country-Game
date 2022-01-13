@@ -1,0 +1,1 @@
+To clone this repository to your computer, first download the GitHub desktop app and login, and this repository should be there somewhere. Click clone, and it will download all the files and then you should be able to open it in Unity hopefully. 
